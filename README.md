@@ -26,3 +26,6 @@ Hosted on: **Render.com**
 
 ## 📁 Folder Structure
 
+### Model File
+The model file is too large for GitHub.  
+[Download from Google Drive]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1kIDT8hr8N62gGveHhA8ch_GuxVZT-Nww/view?usp=sharing))
